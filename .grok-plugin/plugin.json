@@ -1,0 +1,15 @@
+{
+  "name": "unsaid",
+  "displayName": "Unsaid Word Game",
+  "version": "1.0.0",
+  "description": "A daily describe-the-word game in Turkish and English: you see a secret word and five forbidden words the AI never sees, give short clues without them, and the AI guesses. A card checks every clue for forbidden words in any form (Turkish suffixes too) before it is sent. Fewest clue words wins. No sign-in, no ads.",
+  "author": {
+    "name": "The Open Apps, Inc.",
+    "email": "support@theopenapps.com"
+  },
+  "homepage": "https://unsaid.ambientapp.ai/docs",
+  "repository": "https://github.com/tao-inc/unsaid-grok",
+  "license": "MIT",
+  "keywords": ["word game", "word games", "daily word game", "describe the word game", "word guessing game", "party games", "turkish word game", "kelime oyunu", "anlatma oyunu"],
+  "logo": "assets/logo.png"
+}
